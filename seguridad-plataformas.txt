@@ -1,0 +1,5 @@
+Autenticación robusta y 2FA
+Cifrado de datos (HTTPS)
+Anonimización y privacidad de reportes
+Control de acceso basado en roles (RBAC)
+Validación y limpieza de archivos

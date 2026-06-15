@@ -1,0 +1,10 @@
+Información de cada comando:
+- uname -a: Muestra datos del sistema operativo, versión del Kernel de
+Linux y la arquitectura del procesador.
+- whoami: Muestra el nombre del usuario actual en la sesión.
+
+Utilidad en la administración de servidores:
+Es útil porque permite verificar la compatibilidad al instalar
+software, identificar vulnerabilidades de seguridad en el sistema
+y comprobar si se tienen los permisos de administrador correctos 
+antes de ejecutar comandos críticos.
